@@ -1,5 +1,4 @@
-# 🙌<span style="color:red"> 오 </span><span style="color:yellow"> 유 </span><span style="color:orange"> 민 </span><span style="color:green"> 윤 </span><span style="color:purple"> 박 </span>
-🙌 
+# 🙌오유민윤박🙌 
 
 ### 집에가조
 
