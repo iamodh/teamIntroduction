@@ -9,4 +9,4 @@
 ## MBTI - INFP
 
 ## 취미
-### 독서
+### [독서](hobbies/reading.jpeg)
