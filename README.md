@@ -4,7 +4,7 @@
 
 ### 집에가조
 
-##### [🧑🏻‍💻<span>$\bf{\large{\color{#8B00FF}윤정환\}}$</span>](members/yoon.md)
+##### [🧑🏻‍💻윤정환](members/yoon.md)
 
 ##### [🛌오동환](/members/Oh.md)
 
