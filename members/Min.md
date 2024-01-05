@@ -2,6 +2,10 @@
 
 # 민 케이 만 (Min Khay Man)  
 
+### 😁ESTJ😁
+
+### [수영](https://img.freepik.com/premium-vector/athlete-swimming-in-pool_140689-4650.jpg)  
+
 
 
 
