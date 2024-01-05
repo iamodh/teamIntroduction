@@ -1,6 +1,6 @@
 # 나의 소개
 
-![선인장](hitto.jpg)
+<img width="300px" height="300px" src="../img/hitto.jpg">  
 
 ## 이름 - 유수안
 
@@ -8,5 +8,4 @@
 
 ## MBTI - INFP
 
-## 취미
-### [독서](hobbies/reading.jpeg)
+## 취미 - [독서](../hobbies/reading.jpeg)
