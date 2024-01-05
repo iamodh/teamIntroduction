@@ -8,7 +8,9 @@
 
 ## MBTI - INFP
 
-## 취미 - [독서](../hobbies/reading.jpeg)
+## 취미 
+### [독서](../hobbies/reading.jpeg)
+### [음악감상](../hobbies/music.jpg)
 
 ---
 - [🏠](../README.md)
