@@ -1,7 +1,8 @@
 ![투슬리스](../img/park.png)  
 **박주희**
-**ISTP**  
-### [GitHub Profile](https://github.com/eggzuxi)
+**ISTP** 
+*Personal color - SKYBLUE*  
+[GitHub Profile](https://github.com/eggzuxi)
 ***
 *My hobbys*  
 -반려도마뱀이랑 대화하기  

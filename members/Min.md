@@ -6,9 +6,12 @@
 
 ### 😁ESTJ😁
 
-##### [수영](../hobbies/Swimming_Min.jpg)
-##### [자전거](../hobbies/bicycle_Min.png)
-##### [배낭여행](../hobbies/Travel_Min.jpg)
-###### [Readme](../README.md)
+##### I love 💧blue colour!
+
+##### [🏊수영](../hobbies/Swimming_Min.jpg) [🚴‍♀️자전거](../hobbies/bicycle_Min.png) [🧳배낭여행](../hobbies/Travel_Min.jpg) 
+
+
+---
+- [🏠](../README.md)
 
 
