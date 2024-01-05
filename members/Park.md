@@ -1,7 +1,7 @@
 ![투슬리스](../img/park.png)  
 **박주희**
-**ISTP** 
-*Personal color - SKYBLUE*  
+**ISTP**  
+*Personal color - spring green*  
 [GitHub Profile](https://github.com/eggzuxi)
 ***
 *My hobbys*  
