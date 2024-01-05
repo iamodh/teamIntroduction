@@ -1,4 +1,4 @@
-<img src ="../img/yoon.jpeg" width ="225px" height="300px"></img>
+<img src ="../img/yoon.jpeg" width ="300px" height="300px"></img>
 
 # 윤정환
 
