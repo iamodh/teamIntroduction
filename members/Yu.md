@@ -6,7 +6,8 @@
 
 ## [Github](https://github.com/skynarae)
 
-## MBTI - INFP
+## MBTI
+### INFP
 
 ## 좋아하는 색 
 ### 하늘색
