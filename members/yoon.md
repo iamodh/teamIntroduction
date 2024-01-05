@@ -2,6 +2,7 @@
 
 # 윤정환
 
-- [<img src ="../img/github.png" width ="50px" height="50px"></img>](https://github.com/mongzino)
+[<img src ="../img/github.png" width ="40px" height="40px"></img>](https://github.com/mongzino)
+
 - INTJ
-- 게임
+- [League of Legends](https://www.op.gg/summoners/kr/%EB%8C%80%20%EC%83%81%20%ED%98%81-2023)
