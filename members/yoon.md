@@ -1,7 +1,7 @@
-- <img src ="../img/yoon.jpeg" width ="300px" height="300px"></img>
+<img src ="../img/yoon.jpeg" width ="225px" height="300px"></img>
 
 # 윤정환
 
-- [![github]("../img/github.png")](https://github.com/mongzino)
+- [<img src ="../img/github.png" width ="50px" height="50px"></img>](https://github.com/mongzino)
 - INTJ
 - 게임
