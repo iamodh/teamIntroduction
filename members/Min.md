@@ -1,4 +1,4 @@
-<img width="300px" height="300px" src="../img/profile_Min">  
+<img width="300px" height="300px" src="../img/profile_Min.jpg">  
 
 # 민 케이 만 (Min Khay Man)   
 
@@ -6,10 +6,10 @@
 
 ### 😁ESTJ😁
 
-### [수영](../hobbies/Swimming_Min.avif)  
+### [수영]("../hobbies/Swimming_Min.jpg)  
 
-### [자전거](../hobbies/bicycle_Min)  
+### [자전거](../hobbies/bicycle_Min.jpg)  
 
-### [배낭여행](../hobbies/Travel_Min)
+### [배낭여행](../hobbies/Travel_Min.jpg)
 
 
