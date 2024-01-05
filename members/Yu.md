@@ -1,4 +1,4 @@
-# 나의 소개
+# 나를 소개합니다
 
 <img width="300px" height="300px" src="../img/hitto.jpg">  
 
