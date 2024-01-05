@@ -2,7 +2,7 @@
 
 <img width="300px" height="300px" src="../img/hitto.jpg">  
 
-## 이름 - <span style='background-color:#f1f8ff'>유수안</span>
+## 이름 - 유수안
 
 ## [Github](https://github.com/skynarae)
 
