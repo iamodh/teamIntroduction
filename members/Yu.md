@@ -8,4 +8,4 @@
 
 ## MBTI - INFP
 
-## 취미 - [독서](hobbies/reading.jpeg)
+## 취미 - [독서](../hobbies/reading.jpeg)
