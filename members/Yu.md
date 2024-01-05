@@ -8,6 +8,8 @@
 
 ## MBTI - INFP
 
+## 좋아하는 색 - <span style='background-color:#99CCFF'>하늘색</span>
+
 ## 취미 
 ### [독서](../hobbies/reading.jpeg)
 ### [음악감상](../hobbies/music.jpg)
