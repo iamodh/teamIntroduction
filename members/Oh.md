@@ -1,4 +1,7 @@
+<img width="300px" height="300px" src="../img/oh.jpg"></img>
+
 # 오동환
 
-![profile](../img/oh.jpg)
 [Github](https://github.com/iamodh)
+
+##
