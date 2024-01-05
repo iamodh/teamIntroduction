@@ -6,10 +6,12 @@
 
 ### 😁ESTJ😁
 
-### [수영]("../hobbies/Swimming_Min.jpg)  
+##### [수영]("../hobbies/Swimming_Min.jpg)
 
-### [자전거](../hobbies/bicycle_Min.jpg)  
+##### [자전거](../hobbies/bicycle_Min.jpg)
 
-### [배낭여행](../hobbies/Travel_Min.jpg)
+##### [배낭여행](../hobbies/Travel_Min.jpg)
+
+###### [Go Back](README.md)
 
 
