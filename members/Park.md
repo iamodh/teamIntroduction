@@ -3,11 +3,10 @@
 **ISTP**  
 ***
 *My hobbys*  
-반려도마뱀과 대화하기  
-![반려도마뱀이랑 대화하기](../hobbies/gecko_park.png)  
-<img src ="../hobbies/gecko_park.png" width ="100px" height="100px"></img>
+
+반려도마뱀이랑 대화하기
+<img src ="../hobbies/gecko_park.png" width ="300px" height="300px"></img>
 게임하기  
-![게임하기](../hobbies/mococo_park.jpeg)  
-<img src ="../hobbies/mococo_park.jpeg" width ="40px" height="40px"></img>
+<img src ="../hobbies/mococo_park.jpeg" width ="300px" height="300px"></img>
 ---
 - [🏠](../README.md)
